@@ -1,0 +1,13 @@
+customtkinter
+Pillow
+mss
+sounddevice
+numpy
+scipy
+openai
+elevenlabs
+requests
+pyaudio
+pygame
+opencv-python
+pyvirtualcam
